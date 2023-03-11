@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">Code Piece</string>
+    <string name="code_piece">Code Piece</string>
+    <string name="view_all">View All</string>
+
+
+    <!--if else related problems -->
+    <string name="ifElseProbOne">1. Write a program to find maximum between two numbers.</string>
+    <string name="ifElseProbTwo">2. Write a program to find maximum between three numbers.</string>
+    <string name="ifElseProbThree">3. Write a program to check whether a number is negative, positive or zero.</string>
+    <string name="ifElseProbFour">4. Write a program to check whether a number is divisible by 5 and 11 or not.</string>
+    <string name="ifElseProbFive">5. Write a program to check whether a number is even or odd.</string>
+    <string name="ifElseProbSix">6. Write a program to check whether a year is leap year or not.</string>
+    <string name="ifElseProbSeven">7. Write a program to check whether a character is alphabet or not.</string>
+    <string name="ifElseProbEight">8. Write a program to input any alphabet and check whether it is vowel or consonant.</string>
+    <string name="ifElseProbNine">9. Write a program to input any character and check whether it is alphabet, digit or special character.</string>
+
+
+    <!--array related problems Solutions -->
+    <string name="arrayProbOne">1. Write a  program to read and print elements of array.</string>
+    <string name="arrayProbTwo">2. Write a program to find maximum and minimum element in an array.</string>
+    <string name="arrayProbThree">3. Write a program to merge two array to third array.</string>
+    <string name="arrayProbFour">4. Write a program to print all negative elements in an array.</string>
+    <string name="arrayProbFive">5. Write a program to find sum of all array elements.</string>
+    <string name="arrayProbSix">6. Write a program to find second largest element in an array.</string>
+    <string name="arrayProbSeven">7. Write a program to count total number of even and odd elements in an array.</string>
+    <string name="arrayProbEight">8. Write a program to count total number of negative elements in an array.</string>
+    <string name="arrayProbNine">9. Write a program to copy all elements from an array to another array.</string>
+    <string name="arrayProbTen">10. Write a program to insert an element in an array.</string>
+    <string name="arrayProbEleven">11. Write a program to delete an element from an array at specified position.</string>
+    <string name="arrayProbTwelve">12. Write a program to count frequency of each element in an array.</string>
+    <string name="arrayProbThirteen">13. Write a program to print all unique elements in the array.</string>
+    <string name="arrayProbFourteen">14. Write a program to count total number of duplicate elements in an array.</string>
+    <string name="arrayProbFifteen">15. Write a program to delete all duplicate elements from an array.</string>
+    <string name="open" />
+    <string name="close" />
+
+
+    <!--Function related problems Solutions -->
+    <string name="functionProbOne">1. Write a C program to find cube of any number using function.</string>
+    <string name="functionProbTwo">2. Write a C program to find diameter, circumference and area of circle using functions.</string>
+    <string name="functionProbThree">3. Write a C program to find maximum and minimum between two numbers using functions.</string>
+    <string name="functionProbFour">4. Write a C program to check whether a number is even or odd using functions.</string>
+    <string name="functionProbFive">5. Write a C program to check whether a number is prime, Armstrong or perfect number using functions.</string>
+    <string name="functionProbSix">6. Write a C program to find all prime numbers between given interval using functions.</string>
+    <string name="functionProbSeven">7. Write a C program to print all strong numbers between given interval using functions.</string>
+    <string name="functionProbEight">8. Write a C program to print all Armstrong numbers between given interval using functions.</string>
+    <string name="functionProbNine">9. Write a C program to print all perfect numbers between given interval using functions.</string>
+
+
+    <!--pointer related problems Solutions -->
+    <string name="pointerProbOne">1. Write a C program to add two numbers using pointers.</string>
+    <string name="pointerProbTwo">2. Write a C program to swap two numbers using pointers.</string>
+    <string name="pointerProbThree">3. Write a C program to input and print array elements using pointer.</string>
+    <string name="pointerProbFour">4. Write a C program to copy one array to another using pointers.</string>
+    <string name="pointerProbFive">5. Write a C program to swap two arrays using pointers.</string>
+    <string name="pointerProbSix">6. Write a C program to reverse an array using pointers.</string>
+    <string name="pointerProbSeven">7. Write a C program to search an element in array using pointers.</string>
+    <string name="pointerProbEight">8. Write a C program to access two dimensional array using pointers.</string>
+    <string name="pointerProbNine">9. Write a C program to add two matrix using pointers.</string>
+    <string name="pointerProbTen">10. Write a C program to multiply two matrix using pointers.</string>
+    <string name="pointerProbEleven">11. Write a C program to find length of string using pointers.</string>
+    <string name="pointerProbTwelve">12. Write a C program to copy one string to another using pointers.</string>
+    <string name="pointerProbThirteen">13. Write a C program to concatenate two strings using pointers.</string>
+    <string name="pointerProbFourteen">14. Write a C program to compare two strings using pointers.</string>
+    <string name="pointerProbFifteen">15. Write a C program to find reverse of a string using pointers.</string>
+    <string name="pointerProbSixteen">16. Write a C program to sort array using pointers.</string>
+    <string name="pointerProbSeventeen">17. Write a C program to return multiple value from function using pointers.</string>
+
+
+    <string-array name="loop_related_problems">
+        <item>1. Write a C program to print all natural numbers from 1 to n. - using while loop</item>
+        <item>2. Write a C program to print all natural numbers in reverse (from n to 1). - using while loop</item>
+        <item>3. Write a C program to print all alphabets from a to z. - using while loop</item>
+        <item>4. Write a C program to print all even numbers between 1 to 100. - using while loop</item>
+        <item>5. Write a C program to print all odd number between 1 to 100.</item>
+        <item>6. Write a C program to find sum of all natural numbers between 1 to n.</item>
+        <item>7. Write a C program to find sum of all even numbers between 1 to n.</item>
+        <item>8. Write a C program to find sum of all odd numbers between 1 to n.</item>
+        <item>9. Write a C program to print multiplication table of any number.</item>
+        <item>10. Write a C program to count number of digits in a number.</item>
+        <item>11. Write a C program to find first and last digit of a number.</item>
+        <item>12. Write a C program to find sum of first and last digit of a number.</item>
+        <item>13. Write a C program to swap first and last digits of a number.</item>
+        <item>14. Write a C program to calculate sum of digits of a number.</item>
+        <item>15. Write a C program to calculate product of digits of a number.</item>
+        <item>16. Write a C program to enter a number and print its reverse.</item>
+        <item>17. Write a C program to check whether a number is palindrome or not.</item>
+        <item>18. Write a C program to find frequency of each digit in a given integer.</item>
+    </string-array>
+
+</resources>
